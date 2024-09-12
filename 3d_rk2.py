@@ -95,5 +95,3 @@ ax.quiver(A, B, C, u, v, w, length=0.1, normalize=True)
 xs, ys, zs = plot_streamlines(.5, .5, -.9)
 ax.plot(xs, ys, zs, color = 'black')
 plt.show()
-
-#higher order (RK2)
