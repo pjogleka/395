@@ -1,3 +1,5 @@
+# Implementation of 2nd order Runge-Kutta integration in 3 dimensions.
+
 import matplotlib.pyplot as plt
 import numpy as np
 
