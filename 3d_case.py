@@ -1,3 +1,5 @@
+# Interpolation on a 3 dimensional vector field.
+
 import matplotlib.pyplot as plt
 import numpy as np
 
