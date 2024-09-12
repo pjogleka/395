@@ -82,7 +82,3 @@ ax.set(xlim=(-5, 5), ylim=(-5, 5))
 
 plot_streamlines(.1, .5)
 plt.show()
-
-
-##sampling points
-##3d case
